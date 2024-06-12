@@ -1,7 +1,6 @@
 package leetcode.June2024;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 // Given a string array words, return an array of all characters that show up in all strings within the words (including duplicates). You may return the answer in any order.

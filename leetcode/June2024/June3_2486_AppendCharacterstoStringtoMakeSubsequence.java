@@ -1,7 +1,5 @@
 package leetcode.June2024;
 
-import java.util.*;
-
 // You are given two strings s and t consisting of only lowercase English letters.
 
 // Return the minimum number of characters that need to be appended to the end of s so that t becomes a subsequence of s.
