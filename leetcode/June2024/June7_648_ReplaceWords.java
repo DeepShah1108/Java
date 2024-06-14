@@ -9,13 +9,13 @@ public class June7_648_ReplaceWords {
         dictionary.add("bat");
         dictionary.add("rat");
         String sentence = "the cattle was rattled by the battery";
-        String ans = new June7_648_ReplaceWords().replaceWords(dictionary, sentence);
+        // String ans = new June7_648_ReplaceWords().replaceWords(dictionary, sentence);
 
     }
 
-    public String replaceWords(List<String> dictionary, String sentence) {
-        String ans;
+    // public String replaceWords(List<String> dictionary, String sentence) {
+    // String ans;
 
-        return ans;
-    }
+    // return ans;
+    // }
 }
